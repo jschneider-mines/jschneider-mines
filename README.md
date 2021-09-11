@@ -2,7 +2,7 @@
 My name is Jared Schneider and I'm a computer science undergraduate at Colorado School of Mines!
 
 
-
+Below, you can find projects I've worked on for school or just for personal fun!
 <!--
 **jschneider-mines/jschneider-mines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
