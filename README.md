@@ -1,7 +1,7 @@
 ## Hello World! 👋
 My name is Jared Schneider and I'm a computer science undergraduate at Colorado School of Mines!
 
-Check out my side project Cartographer, under user PearUhDox:
+Check out my side project Cartographer (a Minecraft Datapack Project), under user PearUhDox:
 https://github.com/pearuhdox/Cartographer
 
 Additionally in the pins, you can find projects I've worked on for school or just for personal fun!
